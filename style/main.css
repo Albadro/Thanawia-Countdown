@@ -106,6 +106,7 @@ h1 {
     padding: 0 10px;
     text-shadow: 0 0 10px red, 0 0 20px crimson, 0 0 40px darkred;
     animation: flicker 1s infinite alternate;
+    direction: rtl;
 }
 #countdown {
     font-size: 7em;
