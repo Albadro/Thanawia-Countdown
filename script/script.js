@@ -2,7 +2,7 @@ let gltchDly = 0;
 const countdown = document.getElementById("countdown");
 const container = document.getElementsByClassName("container")[0];
 
-const endtime = new Date("2025-06-22T09:00:00").getTime();
+const endtime = new Date("2025-06-26T09:00:00").getTime();
 
 function updateCountdown() {
     const now = new Date().getTime();
